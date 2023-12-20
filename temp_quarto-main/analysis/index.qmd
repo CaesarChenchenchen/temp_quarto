@@ -1,0 +1,4 @@
+# Project Proposal
+
+After a busy week at work why not head to New York for a great weekend! But because there are so many options in New York, choosing where to stay and where to go for the night can sometimes be a difficult decision. Therefore, this analysis aims to analyze and visualize the data of Airbnb and bars in New York to provide a guide for future visitors to New York.
+

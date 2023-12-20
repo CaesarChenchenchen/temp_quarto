@@ -1,11 +1,4 @@
-# Analysis
+# Project Proposal
 
-This section includes examples of technical analysis done using Jupyter notebooks.
-Each sub-section highlights different types of analyses and visualizations.
-In particular, it highlights that we can easily publish interactive visualizations
-produced with packages such as hvPlot, altair, or Folium, without losing
-any of the interactive features. 
-
-On this page, you might want to share more introductory or background information about 
-the analyses to help guide the reader. 
+After a busy week at work why not head to New York for a great weekend! But because there are so many options in New York, choosing where to stay and where to go for the night can sometimes be a difficult decision. Therefore, this analysis aims to analyze and visualize the data of Airbnb and bars in New York to provide a guide for future visitors to New York.
 
